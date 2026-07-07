@@ -75,19 +75,6 @@ git clone https://github.com/Neha-maurya114/NGO-Awareness.git
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your webpage here after capturing them.
-
-Example:
-
-- Homepage
-- Projects Section
-- Social Impact Section
-- Call-to-Action Section
-
----
-
 ## 👩‍💻 Author
 
 **Neha Maurya**
